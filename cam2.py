@@ -8,8 +8,8 @@ buzzer = Pin(12, Pin.OUT)
 buzzer.value(0)
 
 # WIFI
-SSID = "bps_wifi"
-PASSWORD = "sagabps@235"
+SSID = "Mastak"
+PASSWORD = "9842588997"
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
